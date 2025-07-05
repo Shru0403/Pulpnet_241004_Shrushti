@@ -3,7 +3,7 @@
 2) dataset.json which contains the processed dataset
 3) Embeddings.py which creates embeddings for the dataset.json file
 4) chunk_embeddings.pt which contains the processed embeddings of the dataset
-5) streamlit_app.py which is the contains the actual streamlit interface
+5) streamlit_app.py which contains the actual streamlit interface
 
 # Process to run it locally:
 1) Open the streamlit_app.py file.
